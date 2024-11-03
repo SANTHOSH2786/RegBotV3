@@ -1,4 +1,4 @@
 // config.js
 module.exports = {
-    OPENAI_API_KEY: 'your-openai-api-key-here' // replace with your actual API key
+    OPENAI_API_KEY: 'ADD-api-key-HERE' // replace with your actual API key
 };
